@@ -1,1 +1,1 @@
-# blocklist
+# blocklist for Pi-Hole
